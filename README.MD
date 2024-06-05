@@ -3,17 +3,9 @@
 
 
 ### Group 2
--Josh Mitchell
+- Josh Mitchell
 
--Marty F.
-
-=======
-
-## hi ya
-
-
-### Group 2
--Josh Mitchell 
+- Marty F.
 
 - Catherine was here
 
